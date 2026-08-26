@@ -67,7 +67,7 @@ app.post('/api/:platform', async (req, res) => {
 
 // Cek Status Server
 app.get('/', (req, res) => {
-    res.send('ZERONAUT ENGINE READY 🚀');
+    res.send('All SOSIAL MEDIA ENGINE READY 🚀');
 });
 
 // --- PENTING: KONFIGURASI PORT ---
