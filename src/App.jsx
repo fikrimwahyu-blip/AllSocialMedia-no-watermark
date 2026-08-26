@@ -272,7 +272,7 @@ export default function App() {
           transition={{ duration: 5, repeat: Infinity, ease: "linear" }}
           style={{ backgroundImage: "linear-gradient(to right, #ffffff, #a5f3fc, #ffffff)" }}
         >
-          ZERONAUT.DOWNLOADER
+          All Sosial Media
         </motion.h1>
         
         <div className="flex items-center gap-3 mb-8">
