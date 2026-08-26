@@ -1,6 +1,6 @@
 <div align="center">
 
-<br /> <h1 style="font-size: 3rem; font-weight: 900;"> ZERONAUT.DOWNLOADER </h1>
+<br /> <h1 style="font-size: 3rem; font-weight: 900;"> All Sosial Media Downloader </h1>
 
 <h3 style="color: #a5f3fc;"> NO-WATERMARK MEDIA DOWNLOADER ENGINE // V.6.1 </h3>
 
